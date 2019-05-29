@@ -1,0 +1,7 @@
+[requires]
+boost/1.70.0@conan/stable
+Qt/5.11@bincrafters/stable
+
+[generators]
+cmake
+txt
